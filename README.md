@@ -17,3 +17,15 @@ Portfolio of projects from my Data Visualization course. This will include the c
 **Tableau Workbook:** [View Tableau Dashboard](https://public.tableau.com/app/profile/carlos.delgado5318/viz/AdvancinginExcelandTableau-Pt_2_17900397043200/AccountPortfolioDashboard?publish=yes)
 
 **What I would change:** If I did this again, I would test different cost-to-serve amounts for Inside Sales accounts to see what level would make the tier profitable.
+
+
+## Power BI Business Intelligence Training
+
+**Course:** Introduction to Power BI  
+**Completed:** September 26, 2026  
+
+**Certificate:** [View Certificate](https://github.com/cbdelgado1/mis561-portfolio/commit/db35a4e0fcb93a81d69a7faade57af905f299168)
+
+**Tableau Story:** [View Power BI Training Story](https://public.tableau.com/app/profile/carlos.delgado5318/viz/PowerBIIntelligenceTraining/PowerBITraining#1)
+
+In my previous Excel assignment, I had to use VLOOKUP to bring information like revenue from one sheet into another. In Power BI, I can connect the tables using relationships instead of manually creating lookup formulas for each row. For a project where the data is updated often, I would use Power BI because the relationships stay in the model and make it easier to refresh the analysis. I would still use Excel for smaller or one-time tasks, but Power BI would be better for something that needs to be updated regularly.
