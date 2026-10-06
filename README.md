@@ -29,3 +29,15 @@ Portfolio of projects from my Data Visualization course. This will include the c
 **Tableau Story:** [View Power BI Training Story](https://public.tableau.com/app/profile/carlos.delgado5318/viz/PowerBIIntelligenceTraining/PowerBITraining#1)
 
 In my previous Excel assignment, I had to use VLOOKUP to bring information like revenue from one sheet into another. In Power BI, I can connect the tables using relationships instead of manually creating lookup formulas for each row. For a project where the data is updated often, I would use Power BI because the relationships stay in the model and make it easier to refresh the analysis. I would still use Excel for smaller or one-time tasks, but Power BI would be better for something that needs to be updated regularly.
+
+
+## Introduction to DAX in Power BI
+
+**Course:** Introduction to DAX in Power BI  
+**Completed:** October 5, 2026  
+
+**Certificate:** [View Certificate](https://github.com/cbdelgado1/mis561-portfolio/blob/main/certificates/Introduction%20to%20DAX%20in%20Power%20BI%20Certificate-1.png)
+
+**Tableau Story:** [View Power BI Training Story](https://public.tableau.com/app/profile/carlos.delgado5318/viz/PowerBIIntelligenceTraining/PowerBITraining#1)
+
+In my previous Excel assignments, I had to manually create formulas to calculate and summarize values across the data. In Power BI, DAX lets me create measures that automatically calculate those results and update when the data changes or when filters are applied. For a report that needs to be reused or updated often, I would use DAX because the calculations stay connected to the model instead of having to rebuild formulas in Excel. I would still use Excel for smaller calculations, but DAX would be better for an interactive report with changing data.
