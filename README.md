@@ -48,7 +48,7 @@ In my previous Excel assignments, I had to manually create formulas to calculate
 
 **Completed:** October 13, 2026
 
-**Certificate:** [View Certificate](certificates/Data_Visualization_in_Power_BI_Certificate.png)
+**Certificate:** [View Certificate]((https://github.com/cbdelgado1/mis561-portfolio/blob/main/certificates/Data%20Visualization%20in%20Power%20BI%20Certificate.png))
 
 **Tableau Story:** [Power BI Intelligence Training](https://public.tableau.com/app/profile/carlos.delgado5318/viz/PowerBIIntelligenceTraining/PowerBITraining)
 
