@@ -70,12 +70,10 @@ Carlos Delgado
 **AI Acknowledgment:** I used ChatGPT to help organize and edit my reflection.
 
 
-# Carlos Delgado – MIS 561 Data Visualization Portfolio
+## Advancing in Excel & Tableau – Pt. 3
 
-University of Arizona | Fall 2026
+**Business Question:** Which noncontactless Bear Down Bank cards should Card Operations replace early, how many are there, and what will it cost?
 
-This repository collects my work for MIS 561 Data Visualization.
+**Tableau Workbook:** [View Tableau Dashboard](https://public.tableau.com/app/profile/carlos.delgado5318/viz/MIS561AdvancinginExcelandTableauPt3_17924636846570/ExploratoryDash)
 
-## Assignments
-
-- **Advancing in Excel & Tableau – Pt. 3 (Contactless Readiness):** Which noncontactless Bear Down Bank cards should Card Operations replace early, how many are there, and what will it cost? [View the Tableau workbook](https://public.tableau.com/app/profile/carlos.delgado5318/viz/MIS561AdvancinginExcelandTableauPt3_17924636846570/ExploratoryDash). If I did it again, I would test whether the 229 cards that expire in 7 to 12 months should also be in the batch, since a larger budget might cover them.
+**What I would change:** If I did this again, I would test whether the 229 cards that expire in 7 to 12 months should also be in the batch, since a larger budget might cover them.
