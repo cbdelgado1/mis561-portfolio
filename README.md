@@ -79,7 +79,7 @@ Carlos Delgado
 **What I would change:** If I did this again, I would test whether the 229 cards that expire in 7 to 12 months should also be in the batch, since a larger budget might cover them.
 
 
-## Nov 2, 2026 · Data Storytelling with Adobe Express**
+## Nov 2, 2026 · Data Storytelling with Adobe Express
 
 Work sample for the CFO of Southwest Office Solutions: review pricing and discount approvals for Tables first, since Tables posted the largest net loss of any product subcategory at $16,937.44.
 
