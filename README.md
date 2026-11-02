@@ -89,7 +89,10 @@ Design choice: I used my net profit by subcategory dot plot instead of the full 
 
 Training completed: Nov 1, 2026
 
-AI acknowledgement: I used Claude (Opus 5.5, model ID claude-opus-5-5) by Anthropic, working through Claude in Chrome, on Nov 2, 2026 to help organizing my thoughts and helping me build the work sample. I reviewed every number and sentence before submitting. 
+AI acknowledgement: I used Claude (Opus 5.5, model ID claude-opus-5-5) by Anthropic, working through Claude in Chrome, on Nov 2, 2026 to help organize my ideas and create the work sample. I reviewed every number and sentence before submitting. The full prompt is below. 
 
 Anthropic. (2026). *Claude* (Opus 5.5 version) [Large language model]. https://claude.ai
 
+**AI Prompt Used:**
+
+"Help me create a professional one page infographic in Adobe Express for my MIS 561 Data Storytelling assignment. Use my existing Tableau visuals and Southwest Office Solutions data to present a clear financial recommendation to the CFO. Focus on product profitability, especially the losses from Tables. Include financial callouts, Delgado Analytics branding, a clean layout, and the required course footer. Follow the assignment rubric and make the design professional, readable, and easy for an executive to understand."
