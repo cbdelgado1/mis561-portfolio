@@ -77,3 +77,19 @@ Carlos Delgado
 **Tableau Workbook:** [View Tableau Dashboard](https://public.tableau.com/app/profile/carlos.delgado5318/viz/MIS561AdvancinginExcelandTableauPt3_17924636846570/ExploratoryDash)
 
 **What I would change:** If I did this again, I would test whether the 229 cards that expire in 7 to 12 months should also be in the batch, since a larger budget might cover them.
+
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for the CFO of Southwest Office Solutions: review pricing and discount approvals for Tables first, since Tables posted the largest net loss of any product subcategory at $16,937.44.
+
+[Work sample (PDF)](https://github.com/cbdelgado1/mis561-portfolio/blob/main/adobe/delgado-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:e1ec8368-3536-551c-a7b1-e82f37037b09)
+
+Design choice: I used my net profit by subcategory dot plot instead of the full Explanatory Dashboard, because the CFO needs to see at a glance which product lines lose money and how far Tables sits from everything else. I added three callout cards built for the CFO (the Tables loss, the combined loss of the three unprofitable subcategories, and the Tables share of that loss) so the size of the problem is clear without reading the chart. I removed the state profitability map and the discount scatter plot; the decision is about product lines, not geography, and cutting them left room for the chart and the recommendation.
+
+Training completed: Nov 1, 2026
+
+AI acknowledgement: I used Claude (Opus 5.5, model ID claude-opus-5-5) by Anthropic, working through Claude in Chrome, on Nov 2, 2026 to help organizing my thoughts and helping me build the work sample. I reviewed every number and sentence before submitting. 
+
+Anthropic. (2026). *Claude* (Opus 5.5 version) [Large language model]. https://claude.ai
+
