@@ -96,3 +96,16 @@ Anthropic. (2026). *Claude* (Opus 5.5 version) [Large language model]. https://c
 **AI Prompt Used:**
 
 "Help me create a professional one page infographic in Adobe Express for my MIS 561 Data Storytelling assignment. Use my existing Tableau visuals and Southwest Office Solutions data to present a clear financial recommendation to the CFO. Focus on product profitability, especially the losses from Tables. Include financial callouts, Delgado Analytics branding, a clean layout, and the required course footer. Follow the assignment rubric and make the design professional, readable, and easy for an executive to understand."
+
+
+## Nov 16, 2026 · Product Pitch with Generative AI in Adobe Express
+
+Pitch to the CFO of Southwest Office Solutions: approve a six-week first phase that reviews Table pricing and discount approvals, Tables only.
+
+[Pitch deck (PDF)](https://github.com/cbdelgado1/mis561-portfolio/blob/main/adobe/delgado-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:4f55d74a-8444-4d0e-8377-6e15c79969e4?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Why not just raise Table prices now?" Slide 7 answers it: we know Tables lose $16,937.44 but not why, and if discounts drive the loss, a price hike misses the cause. Weeks 1-2 of the first phase find the cause before any price changes.
+
+AI use: I used Claude (Opus 5.5 and Sonnet 5.5) by Anthropic, through Claude in Chrome, on Nov 16, 2026, to help organize my ideas, write slide content, and design my 8-slide presentation in Adobe Express. I also used Adobe Firefly to generate the background for Slide 1. All financial data came from my original Southwest Office Solutions analysis. I reviewed all content and numbers before submitting.
+
+Training completed: Nov 16, 2026
