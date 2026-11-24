@@ -110,12 +110,13 @@ AI use: I used Claude (Opus 5.5 and Sonnet 5.5) by Anthropic, through Claude in 
 
 Training completed: Nov 16, 2026
 
+
 ## November 23, 2026 · Brand Standard Application in Tableau
 
 Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres draw the most audience engagement per movie and should lead next year's ad packages?
 
 [Tableau workbook](https://public.tableau.com/app/profile/carlos.delgado5318/viz/Delgado_Flex12/ExploratoryDashboard)
 
-One thing I'd change: I would group movies by their full genre list instead of the first-listed genre. The first genre is usually alphabetical, so 1,927 of 5,577 Adventure movies and 1,443 of 4,524 Sci-Fi movies with votes were counted as Action. Counting every listed genre ranks Adventure (37,738 votes per movie) and Sci-Fi (34,287) above Action (23,558), so I would test a combined Action, Adventure, and Sci-Fi package.
+One thing I'd change: I would group movies by their full genre list instead of the first-listed genre. The first genre is usually alphabetical, so 1,927 of 5,577 Adventure movies and 1,443 of 4,524 Sci-Fi movies with votes were counted as Action. Counting every listed genre ranks Adventure (37,738 votes per movie) and Sci-Fi (34,287) above Action (23,558), so I would test a combined Action, Adventure, and Sci-Fi package. The Design Overview explains this limit.
 
-AI use: Claude (Opus 5.5) by Anthropic, in the Claude Code desktop app, on November 23, 2026. Working from my instructions, it analyzed the IMDb data, wrote the calculated fields, built the formatting, layout, and navigation by editing the workbook file, drafted the dashboard text and this entry, tested the workbook in Tableau Public 2026.3.1, and published it after I approved it.
+AI use: Claude (Opus 5.5) by Anthropic, in the Claude Code desktop app, on November 23, 2026. Working from my instructions, it analyzed the IMDb data, wrote the calculated fields, built the formatting, layout, and navigation by editing the workbook file, drafted the dashboard text and this entry, tested the workbook in Tableau Public 2026.3.1, published and updated it with my approval, and added this entry to GitHub through Chrome.
